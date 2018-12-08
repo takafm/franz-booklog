@@ -1,0 +1,13 @@
+{
+  "id": "booklog",
+  "name": "booklog",
+  "version": "0.0.1",
+  "description": "Unofficial Booklog plugin for Franz",
+  "main": "index.js",
+  "author": "Takafumi Oyama <taka23.ohyama@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://booklog.jp/",
+    "hasNotificationSound": false
+  }
+}
